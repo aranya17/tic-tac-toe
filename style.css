@@ -22,7 +22,7 @@ body {
 }
 
 .container{
-    height : 60vh;
+    height : 60vmin;
     display: flex;
     justify-content: center;
     align-items: center;
